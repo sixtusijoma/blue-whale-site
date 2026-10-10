@@ -3,6 +3,8 @@
 A single-page, encyclopedia-style article about the blue whale (*Balaenoptera musculus*).
 Plain HTML, CSS and JavaScript with no build step and no external requests: fonts and images are self-hosted.
 
+> **Made entirely with Grok Bot.** This site was built end to end by Grok Bot, an AI assistant, as a test of its capabilities: research, writing, design, code, image sourcing and licensing, and screenshots.
+
 ## Run locally
 
     cd blue-whale-site
