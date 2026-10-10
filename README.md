@@ -5,6 +5,18 @@ Plain HTML, CSS and JavaScript with no build step and no external requests: font
 
 > **Made entirely with Grok Bot.** This site was built end to end by Grok Bot, an AI assistant, as a test of its capabilities: research, writing, design, code, image sourcing and licensing, and screenshots.
 
+## Preview
+
+| Desktop, light | Desktop, dark |
+|---|---|
+| ![Desktop, light theme](docs/desktop-light.jpg) | ![Desktop, dark theme](docs/desktop-dark.jpg) |
+
+| Mobile, dark | Mobile, table of contents |
+|---|---|
+| <img src="docs/mobile-dark.jpg" alt="Mobile, dark theme" width="260"> | <img src="docs/mobile-toc.jpg" alt="Mobile, table of contents open" width="260"> |
+
+**Demo video:** [docs/demo.mp4](docs/demo.mp4) (84 seconds)
+
 ## Run locally
 
     cd blue-whale-site
@@ -18,7 +30,7 @@ Plain HTML, CSS and JavaScript with no build step and no external requests: font
     assets/js/app.js      theme toggle, reading progress, TOC scroll-spy, reference previews
     assets/img/           images downloaded from Wikimedia Commons (credits below)
     assets/fonts/         Inter and Newsreader variable fonts (SIL OFL 1.1, licenses included)
-    screenshots/          headless-Chrome screenshots (desktop 1440px, tablet 1024px, mobile 390/360px) (not included in the zip)
+    docs/                 README preview images and demo video
 
 ## Image credits
 
