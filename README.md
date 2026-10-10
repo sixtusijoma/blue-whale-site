@@ -5,6 +5,8 @@ Plain HTML, CSS and JavaScript with no build step and no external requests: font
 
 > **Made entirely with Grok Bot.** This site was built end to end by Grok Bot, an AI assistant, as a test of its capabilities: research, writing, design, code, image sourcing and licensing, and screenshots.
 
+**Live:** [blue-whale-site.onrender.com](https://blue-whale-site.onrender.com) (free Render static site)
+
 ## Preview
 
 | Desktop, light | Desktop, dark |
