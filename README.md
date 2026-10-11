@@ -17,7 +17,7 @@ Plain HTML, CSS and JavaScript with no build step and no external requests: font
 |---|---|
 | <img src="docs/mobile-dark.jpg" alt="Mobile, dark theme" width="260"> | <img src="docs/mobile-toc.jpg" alt="Mobile, table of contents open" width="260"> |
 
-**Demo video:** [watch the 84-second demo](https://blue-whale-site.onrender.com/docs/demo.mp4) (file: [docs/demo.mp4](docs/demo.mp4))
+**Demo video:** [watch the 84-second demo](https://blue-whale-site.onrender.com/docs/demo.mp4)
 
 ## Run locally
 
